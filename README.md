@@ -1,6 +1,6 @@
-## 部署文档
+## 样式图
 
-参考[Valine评论之Valine-admin配置攻略](https://www.antmoe.com/posts/2380732b/index.html)
+![]( https://cdn.jsdelivr.net/gh/PaddyLin-xum/tuku@master/img/ping.png)
 
 ## License
 
